@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "616859266128",
+    "project_id": "coffee-app-2ec7f",
+    "storage_bucket": "coffee-app-2ec7f.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:616859266128:android:45a420ca044a710ed5f555",
+        "android_client_info": {
+          "package_name": "com.app.coffeerecycle"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBH7qA_xSrJ5eYmbHSCDEfuXSHqHdCsvzI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
